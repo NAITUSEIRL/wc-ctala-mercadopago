@@ -1,10 +1,10 @@
 <?php
 
 /*
-Plugin Name: Mi Plugin
-Plugin URI:  https://github.com/ctala/wp-skeleton
-Description: Base para la Creación de otros plugins
-Version:     1.0
+Plugin Name: Pagos con Mercado Pago
+Plugin URI:  https://github.com/NAITUSEIRL/wc-ctala-mercadopago
+Description: Utiliza Mercado Pagos para Woocommerce 
+Version:     0.1
 Author:      Cristian Tala Sánchez
 Author URI:  http://www.cristiantala.cl
 License:     MIT
