@@ -1,5 +1,5 @@
 {
     "require": {
-        "phpoffice/phpexcel": "1.8.1"
+        "mercadopago/sdk": "0.5.2"
     }
 }
